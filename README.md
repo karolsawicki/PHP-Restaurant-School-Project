@@ -1,2 +1,9 @@
 # PHP Restaurant School Project 
- My project for programming class thats lets me learn php, js, html and css. 
+ My project for programming class thats must accomplished some set of requirements.
+
+
+# What I Learned
+
+* Developed a user interface using Bootstrap, html and css. 
+* Using PHP as backend. 
+* Using XAMPP.
